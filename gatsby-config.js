@@ -7,22 +7,20 @@ module.exports = {
     // Main Site Title
     title: `Nareg Boynukalın | Data Engineer Candidate`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
-    // Optional: Twitter account handle
-    author: `@rfitzio`,
+    description: `Data Engineer based in Bakirkoy,Istanbul`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/naregboynukalin`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/naregboynukalin/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm a 3rd grade Computer Engineering student of Bahçeşehir University. At the end of the 1st year, I had 4 months of summer internship experience in the Digital Marketing department and during the second year , I had 5 months of internship experience in the Software Development department. I aim to gain as much internship experience as possible in order to involve myself in the sector as quickly as possible until I graduate. Apart from the projects at school, I constantly improve myself in the field of Data Engineering, which is my career goal, and develop open source projects. I have a very high interest in learning new skills, following technology and gaining new experiences. `,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Plagiarism Detector',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A Java application that makes comparisons between two texts, finds the first 5 sentences that are most similar and calculates the general similarity. ',
+        link: 'https://github.com/naregboynukalin/Java-Plagiarism-Detector',
       },
       {
         name: 'ChromeExtensionKit',
