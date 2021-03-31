@@ -23,34 +23,41 @@ module.exports = {
         link: 'https://github.com/naregboynukalin/Java-Plagiarism-Detector',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Machine Learning Projects',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'There are two ML projects which are "Breast Cancer Prediction" and " Vehicle Fuel Consumption Prediction". Few ML techniques used such as KNN,ElasticNet,XGBoost etc. ',
+        link: 'https://github.com/naregboynukalin/Machine-Learning-Projects',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Whiteboard Application',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Whiteboard application built with Java swing library, GUI and network. There are two server and client files running on same machine. Server draws some shapes and client sees them synchronously on the whiteboard. Also they can communicate via chatbox.',
+        link: 'https://github.com/naregboynukalin/WhiteBoard-App-Java',
+      },
+      {
+        name: 'P2P File Sharing Application',
+        description:
+          'A P2P App developed using Python Socket Programming. Clients on the same network are detected and file transferred over the Hamachi network.',
+        link: 'https://github.com/naregboynukalin/P2P-App-w-Python',
+      },
+      {
+        name: 'Weather Application',
+        description:
+          'Application that performs weather data transfer over API using React JS library.',
+        link: 'https://github.com/naregboynukalin/React-WeatherApp',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Ozak Global Holding',
+        description: 'Software Development Intern,  Nov 2019 - Mar 2020                                                                  Performing information update operations by writing various queries on relational databases with MSSQL             Creating activity reports and similar in-house reports with SSRS and presenting them to managers                   Creating a website with ASP.NET and making the database association of the site',
+        link: 'https://www.ozakglobal.com',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Orka Holding',
+        description: 'Digital Marketing Intern, May 2019 - Sep 2019',
+        link: 'https://www.orkaholding.com.tr',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -58,16 +65,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Python, Java, Javascript, SQL, NoSQL',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MongoDB, Oracle PL/SQL, MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Linux, GCP, ETL, Software Design and Architecture, SDLC',
       },
     ],
   },
