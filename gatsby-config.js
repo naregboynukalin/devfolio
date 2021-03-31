@@ -51,7 +51,7 @@ module.exports = {
     experience: [
       {
         name: 'Ozak Global Holding',
-        description: 'Software Development Intern,  Nov 2019 - Mar 2020                                                                  Performing information update operations by writing various queries on relational databases with MSSQL             Creating activity reports and similar in-house reports with SSRS and presenting them to managers                   Creating a website with ASP.NET and making the database association of the site',
+        description: 'Software Development Intern,  Nov 2019 - Mar 2020 <br> -> Performing information update operations by writing various queries on relational databases with MSSQL <br> -> Creating activity reports and similar in-house reports with SSRS and presenting them to managers <br> -> Creating a website with ASP.NET and making the database association of the site',
         link: 'https://www.ozakglobal.com',
       },
       {
