@@ -11,6 +11,7 @@ const classes = {
   contentWrapper: 'flex-none pt-6 md:pt-1 md:flex-1 md:pl-20',
   name: 'text-5xl text-gray-900 font-bold leading-tight hover:text-black',
   description: 'text-gray-600',
+  tasks: 'text-gray-600',
   list: 'mt-6 uppercase tracking-wider',
   item: 'inline list-none pr-4',
   link:
@@ -34,6 +35,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
           <Link to="/">{metadata.name}</Link>
         </h1>
         <p className={classes.description}>{metadata.description}</p>
+        <p className={classes.tasks}>{metadata.tasks}</p>
         <ul className={classes.list}>
           {twitter && (
             <li className={classes.item}>
