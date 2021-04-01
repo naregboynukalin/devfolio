@@ -58,6 +58,7 @@ module.exports = {
       {
         name: 'Orka Holding',
         description: 'Digital Marketing Intern, May 2019 - Sep 2019',
+        tasks: 'Using the Odito infrastructure, which provides the internal audits of the DS Damat and Damat Tween brands in total of nearly 400 stores. Designing campaigns and mailings by using the Euromessage service, which is an e-commerce service. Taking over the management of Google Analytics and Google My Business accounts',
         link: 'https://www.orkaholding.com.tr',
       },
     ],
