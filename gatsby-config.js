@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'Nareg Boynukalın',
     // Main Site Title
-    title: `Nareg Boynukalın | Data Engineer Candidate`,
+    title: `Nareg Boynukalın | Data Engineer`,
     // Description that goes under your name in main bio
     description: `Data Engineer based in Bakirkoy,Istanbul`,
     // Optional: Github account URL
@@ -13,7 +13,13 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/naregboynukalin/`,
     // Content of the About Me section
-    about: `I'm a 3rd grade Computer Engineering student of Bahçeşehir University. At the end of the 1st year, I had 4 months of summer internship experience in the Digital Marketing department and during the second year , I had 5 months of internship experience in the Software Development department. I aim to gain as much internship experience as possible in order to involve myself in the sector as quickly as possible until I graduate. Apart from the projects at school, I constantly improve myself in the field of Data Engineering, which is my career goal, and develop open source projects. I have a very high interest in learning new skills, following technology and gaining new experiences. `,
+    about: `I'm a Data Engineer who works with big data and cloud technologies. I'm super curious and exited to learn new software and data oriented technologies.
+
+My key skills and interests are:
+• SQL and NoSQL Database Systems, 
+• Programming both functional and OOP mostly with Python and Java
+• Creating and maintaining data pipelines
+• Cloud Computing Technologies `,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
